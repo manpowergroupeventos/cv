@@ -157,7 +157,7 @@ header.masthead {
   background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
-  opacity: 0.8;
+  opacity: 0.4;
 }
 
 header.masthead .header-content {
@@ -402,6 +402,10 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background: #fdcc52;
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
   background: linear-gradient(#fdcc52, #fdc539);
+}
+
+.bg-secondary {
+  background: #55acee;
 }
 
 .text-primary {
