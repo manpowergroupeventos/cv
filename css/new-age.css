@@ -157,7 +157,6 @@ header.masthead {
   background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #539BD8, #F1853A);
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #539BD8, #F1853A);
-  opacity: 0.8;
 }
 
 header.masthead .header-content {
