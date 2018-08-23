@@ -440,3 +440,27 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   font-size: 11px;
   padding: 15px 45px;
 }
+
+h2,
+h3,
+h4,
+h5 {
+margin-top: 10px;
+}
+
+.space {
+	padding: 25px 0;
+	margin: 25px 0;
+}
+
+.fa-app-store { 
+color: #1AA1E1;
+	font-size: 1.5em;
+
+}
+
+.fa-google-play {
+	color: #B3C833;
+	font-size: 1.5em;
+	
+}
