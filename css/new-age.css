@@ -449,8 +449,8 @@ margin-top: 10px;
 }
 
 .space {
-	padding: 25px 0;
-	margin: 25px 0;
+	padding: 10px 0;
+	margin: 10px 0;
 }
 
 .fa-app-store { 
@@ -460,7 +460,7 @@ color: #1AA1E1;
 }
 
 .fa-google-play {
-	color: #B3C833;
+	color: #CE5043;
 	font-size: 1.5em;
 	
 }
